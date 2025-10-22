@@ -1,3 +1,8 @@
+## [2.0.0]
+
+* Convert a [PersianDate] to [DateTime].
+* Added some utility methods to [PersianDate].
+
 ## [1.2.0]
 
 * Better lints, a more complete example.

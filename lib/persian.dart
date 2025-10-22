@@ -3,6 +3,8 @@ library persian;
 
 import 'dart:core';
 
+import 'package:persian/src/date_utils.dart';
+
 part 'src/humanizer.dart';
 part 'src/int_extensions.dart';
 part 'src/extensions.dart';

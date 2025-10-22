@@ -1,4 +1,4 @@
-part of persian;
+part of '../persian.dart';
 
 /// Persian extension utilities for Integers.
 extension IntExtensions on int {
